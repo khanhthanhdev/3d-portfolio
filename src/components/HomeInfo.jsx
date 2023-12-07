@@ -29,7 +29,7 @@ const renderContent = {
     ),
     3: (
         <InfoBox 
-            text="Have many projects and achievements, won many awards, and have many experiences in many fields. Want to see them ?"
+            text="Have many projects and achievements, won many awards, and have many experiences in Robotics and Web. Want to see them ?"
             link="/projects"
             btnText="Check my portfolio"
         />
